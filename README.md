@@ -41,6 +41,6 @@ https://olgafilipapereira-cpu.github.io/Olga_Peixoto_trabajoJAVASCRIPT/
 
 ## Observación
 
-Este proyecto usa recursos externos para tipografías, imágenes de muestra y el mapa. Para previsualizarlo correctamente conviene abrirlo desde un servidor local o desde GitHub Pages.
+Este proyecto usa recursos externos para tipografías, imágenes de muestra y el mapa. Para previsualizarlo correctamente abrirlo desde un servidor local o desde GitHub Pages.
 
 
